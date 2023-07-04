@@ -1,5 +1,7 @@
 # Java Programming Course by Shahrekord University Computer Engineering Association
 
+<img src="https://github.com/RahmaniSajjad/Java-Programming-Course/blob/main/img.jpg" align="center" alt="github.com/RahmaniSajjad/Java-Programming-Course" />
+
 Welcome to the Java Programming Course organized by the Shahrekord University Computer Engineering Association! This repository contains recorded sessions and code examples from the course, instructed by Mr. Sajjad Rahmani. 
 
 ## Course Overview
